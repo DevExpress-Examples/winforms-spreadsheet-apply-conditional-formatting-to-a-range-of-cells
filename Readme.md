@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ConditionalFormatting.cs](./CS/SpreadsheetControl/SpreadsheetActions/ConditionalFormatting.cs) (VB: [ConditionalFormatting.vb](./VB/SpreadsheetControl/SpreadsheetActions/ConditionalFormatting.vb))
+<!-- default file list end -->
 # How to apply conditional formatting to a range of cells
 
 
