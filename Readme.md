@@ -19,7 +19,7 @@ Starting from <strong>v2014 vol.2</strong>:<br />- Apply conditional formatting 
 
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-apply-conditional-formatting-to-a-range-of-cells&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-apply-conditional-formatting-to-a-range-of-cells&~~~was_helpful=no)
 
