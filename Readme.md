@@ -32,7 +32,7 @@ In particular, this sample demonstrates how to use the SpreadsheetControl API to
 
 * [Conditional Formatting in Spreadsheet Documents](https://docs.devexpress.com/WindowsForms/16190/controls-and-libraries/spreadsheet/data-presentation/conditional-formatting)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-apply-conditional-formatting-to-a-range-of-cells&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-apply-conditional-formatting-to-a-range-of-cells&~~~was_helpful=no)
 
